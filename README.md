@@ -1,2 +1,0 @@
-# JavaAssessment
-Java Assessment
